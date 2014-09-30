@@ -1,7 +1,9 @@
 gaminarios
 ==========
 
-Aqui você encontra todos os tabuleiros desenvolvidos e apresentados no show Gaminário do canal  AJogadaTV no YouTube
+Aqui você encontra todos os tabuleiros desenvolvidos e apresentados no show Gaminário do canal AJogadaTV no YouTube.
+
+Saiba mais em nosso wiki: https://github.com/AJogada/gaminarios/wiki
 
 ### Licenciamento
 
